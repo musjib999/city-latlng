@@ -12,5 +12,9 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^3.3.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/musjib999/city-latlng/issues"
+  },
+  "homepage": "https://github.com/musjib999/city-latlng#readme"
 }
