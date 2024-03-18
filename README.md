@@ -36,22 +36,3 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
 Musa Jibril [musjib999@gmail.com](mailto:musjib999@gmail.com)
 
-
-
-
-
-
-## Calculating loan
-
-### Sample code:
-
-var calcLibrary = require("@muhammad-tanko/loancalculator");
-
-var Calculator = new calcLibrary.LoanCalc();
-
-    Calculator.LoanCalc(1000000,//loan amount you are requesting for
-     20, //Number of installments you want 
-     70  // Your credit score (should not be less than 70)
-     );
-
-
