@@ -1,0 +1,16 @@
+{
+  "name": "city_to_lat_long",
+  "version": "1.0.0",
+  "description": "Get latitude and longitude based on city name and country",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Musa Jibril",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
